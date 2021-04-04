@@ -1,5 +1,5 @@
 ---
-titles: "Big Data Tech"
+title: "Big Data Tech"
 date: 2021-04-04
 ----
 
