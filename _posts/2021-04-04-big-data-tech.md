@@ -1,5 +1,4 @@
 ---
-layout: post
 titles: "Big Data Tech"
 ----
 
